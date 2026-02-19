@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "エボ",
+  "base_artist": "La prière",
+  "createdAt": "2026-02-19T13:02:35.929445Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エボ★レボリューション",
+      "artist": "Mihimaru GT",
+      "has_synced": true,
+      "path": "select/01_エボ★レボリューション_Mihimaru_GT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エボ",
+      "artist": "La prière",
+      "has_synced": false,
+      "path": "select/pl_01_エボ_La_prière.txt"
+    }
+  ]
+}
